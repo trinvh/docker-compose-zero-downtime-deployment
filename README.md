@@ -1,3 +1,5 @@
+[![PushTrain build](http://localhost:90/badge/trinvh/docker-compose-zero-downtime-deployment/118.svg)](https://github.com/trinvh/docker-compose-zero-downtime-deployment) [![Managed by PushTrain](http://localhost:90/badge-text/managed_by-PushTrain-F17E43.svg)](https://swiftengine.io)
+
 # Docker Compose Zero-Downtime Deployment
 
 This design pattern uses Jason Wilder's ([@jwilder](https://github.com/jwilder)) [Nginx proxy for Docker](https://github.com/jwilder/nginx-proxy) together with [Docker Compose](https://www.docker.com/products/docker-compose) to achieve an almost zero-downtime deployment process for Docker containers.
